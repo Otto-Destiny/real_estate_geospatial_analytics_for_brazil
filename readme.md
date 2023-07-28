@@ -90,7 +90,8 @@ Copy code
 pip install pandas numpy matplotlib seaborn plotly scikit-learn
 ```
 or
-```pip install -r requirements.txt
+``` bash
+pip install -r requirements.txt
 ```
 
 3. Open the Jupyter Notebook.
