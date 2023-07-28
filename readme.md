@@ -1,6 +1,7 @@
 # Real Estate Geospatial Analytics For Brazil
 
-![Brazil Real Estate](https://github.com/Otto-Destiny/real_estate_geospatial_analytics_for_brazil/blob/57fe9b42b2b387101ab3534ad3913a07facef024/images/geospatial.png)
+![Brazil Real Estate](https://github.com/Otto-Destiny/real_estate_geospatial_analytics_for_brazil/blob/main/images/geospatial.png)
+
 
 ## Overview
 
